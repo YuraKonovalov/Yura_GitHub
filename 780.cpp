@@ -36,7 +36,7 @@ void CHAS (float *A,float D,int n, float h)
 
 
 main()
-{
+{//gdfgdfhdghghgfhdg
       setlocale(LC_ALL,"Russian");
       int n; float D,h,;
    
